@@ -46,7 +46,7 @@ docs/.DS_Store
 .Rbuildignore
 bartools_test_notebook.Rmd
 bartools_test_notebook.nb.html
-docs*
+# docs*
 bartools.Rproj
 inst/doc
 /doc/
