@@ -1,207 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/404.html</loc>
   </url>
   <url>
-    <loc>/LICENSE-text.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/LICENSE-text.html</loc>
   </url>
   <url>
-    <loc>/LICENSE.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/LICENSE.html</loc>
   </url>
   <url>
-    <loc>/articles/bartools_quickstart.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/articles/bartools_quickstart.html</loc>
   </url>
   <url>
-    <loc>/articles/bartools_single_cell_analysis.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/articles/bartools_single_cell_analysis.html</loc>
   </url>
   <url>
-    <loc>/articles/import_qc_single_cell.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/articles/import_qc_single_cell.html</loc>
   </url>
   <url>
-    <loc>/articles/index.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/articles/index.html</loc>
   </url>
   <url>
-    <loc>/articles/preprocessing.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/articles/preprocessing.html</loc>
   </url>
   <url>
-    <loc>/articles/quickstart.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/articles/quickstart.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/authors.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/index.html</loc>
   </url>
   <url>
-    <loc>/news/index.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/news/index.html</loc>
   </url>
   <url>
-    <loc>/reference/aggregateBarcodes.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/aggregateBarcodes.html</loc>
   </url>
   <url>
-    <loc>/reference/annotateBarcodeReads.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/annotateBarcodeReads.html</loc>
   </url>
   <url>
-    <loc>/reference/calcDivIndexes.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/calcDivIndexes.html</loc>
   </url>
   <url>
-    <loc>/reference/calcPercentileBarcodes.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/calcPercentileBarcodes.html</loc>
   </url>
   <url>
-    <loc>/reference/calcReplicateCorr.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/calcReplicateCorr.html</loc>
   </url>
   <url>
-    <loc>/reference/cluster_cormat.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/cluster_cormat.html</loc>
   </url>
   <url>
-    <loc>/reference/collapseReplicates.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/collapseReplicates.html</loc>
   </url>
   <url>
-    <loc>/reference/compareAbundance.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/compareAbundance.html</loc>
   </url>
   <url>
-    <loc>/reference/countBarcodeReads.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/countBarcodeReads.html</loc>
   </url>
   <url>
-    <loc>/reference/createBarcodeObj.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/createBarcodeObj.html</loc>
   </url>
   <url>
-    <loc>/reference/extractBAM.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/extractBAM.html</loc>
   </url>
   <url>
-    <loc>/reference/extractBarcodeReads.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/extractBarcodeReads.html</loc>
   </url>
   <url>
-    <loc>/reference/extractFASTQ.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/extractFASTQ.html</loc>
   </url>
   <url>
-    <loc>/reference/filterBarcodes.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/filterBarcodes.html</loc>
   </url>
   <url>
-    <loc>/reference/getDominantBarcodes.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/getDominantBarcodes.html</loc>
   </url>
   <url>
-    <loc>/reference/get_upper_tri.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/get_upper_tri.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/mapBarcodeReads.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/mapBarcodeReads.html</loc>
   </url>
   <url>
-    <loc>/reference/normaliseCounts.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/normaliseCounts.html</loc>
   </url>
   <url>
-    <loc>/reference/plotAbundanceLines.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotAbundanceLines.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBARtabFilterQC.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBARtabFilterQC.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBARtabMapQC.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBARtabMapQC.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeBoxplot.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeBoxplot.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeBubble.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeBubble.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeCorrelation.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeCorrelation.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeCounts.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeCounts.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeCumSum.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeCumSum.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeDistance.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeDistance.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeHeatmap.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeHeatmap.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeHistogram.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeHistogram.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodePCA.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodePCA.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeRegression.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeRegression.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodeTimeseries.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodeTimeseries.html</loc>
   </url>
   <url>
-    <loc>/reference/plotBarcodesPerCell.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotBarcodesPerCell.html</loc>
   </url>
   <url>
-    <loc>/reference/plotCellsInClusters.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotCellsInClusters.html</loc>
   </url>
   <url>
-    <loc>/reference/plotCellsPerGroup.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotCellsPerGroup.html</loc>
   </url>
   <url>
-    <loc>/reference/plotClusterEnrichment.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotClusterEnrichment.html</loc>
   </url>
   <url>
-    <loc>/reference/plotDetectedBarcodes.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotDetectedBarcodes.html</loc>
   </url>
   <url>
-    <loc>/reference/plotDivIndexes.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotDivIndexes.html</loc>
   </url>
   <url>
-    <loc>/reference/plotLibraryCumSum.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotLibraryCumSum.html</loc>
   </url>
   <url>
-    <loc>/reference/plotLibraryDiversity.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotLibraryDiversity.html</loc>
   </url>
   <url>
-    <loc>/reference/plotMetrics.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotMetrics.html</loc>
   </url>
   <url>
-    <loc>/reference/plotOrderedBubble.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotOrderedBubble.html</loc>
   </url>
   <url>
-    <loc>/reference/plotReadCounts.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotReadCounts.html</loc>
   </url>
   <url>
-    <loc>/reference/plotSampleCumSum.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotSampleCumSum.html</loc>
   </url>
   <url>
-    <loc>/reference/plotUmiFilterThresholds.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotUmiFilterThresholds.html</loc>
   </url>
   <url>
-    <loc>/reference/plotUmiPerBarcode.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/plotUmiPerBarcode.html</loc>
   </url>
   <url>
-    <loc>/reference/processBarcodeLibrary.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/processBarcodeLibrary.html</loc>
   </url>
   <url>
-    <loc>/reference/proportionalBubbleplot.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/proportionalBubbleplot.html</loc>
   </url>
   <url>
-    <loc>/reference/pseudoBulk.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/pseudoBulk.html</loc>
   </url>
   <url>
-    <loc>/reference/readBartabCounts.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/readBartabCounts.html</loc>
   </url>
   <url>
-    <loc>/reference/test.bartab.sc.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/test.bartab.sc.html</loc>
   </url>
   <url>
-    <loc>/reference/test.counts.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/test.counts.html</loc>
   </url>
   <url>
-    <loc>/reference/test.dge.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/test.dge.html</loc>
   </url>
   <url>
-    <loc>/reference/test.sce.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/test.sce.html</loc>
   </url>
   <url>
-    <loc>/reference/thresholdCounts.html</loc>
+    <loc>https://salihaey.github.io/bartools_copy/reference/thresholdCounts.html</loc>
   </url>
 </urlset>
